@@ -1,0 +1,42 @@
+.jumbotron{
+    background-image: url("../../assets/Images/cover.jpg");
+}
+
+#profile{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 2px white dotted;
+}
+
+.red{
+    color: red;
+}
+
+.heading{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;
+    color: rgb(9, 156, 107);
+    font-size: 34px;
+}
+
+.answer{
+    color: aliceblue;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+font-size: 22px;
+}
+
+.white{
+    background-color: aliceblue;
+    color: black;
+}
+
+.card{
+    background-color: aliceblue;
+}
+
+hr{
+    color: green;
+}
